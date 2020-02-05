@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-date
+date > /tmp/custom_script.log
