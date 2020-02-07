@@ -1,4 +1,3 @@
 #!/bin/bash
 
-
-date > /tmp/custom_script.log
+date +"%Y/%m/%d %h:%M:%S" > /tmp/custom_script.log
